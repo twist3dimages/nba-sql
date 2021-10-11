@@ -1,0 +1,4 @@
+nba_sql.db filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+nba_sql_v0.0.4.exe filter=lfs diff=lfs merge=lfs -text
+nba.sql filter=lfs diff=lfs merge=lfs -text
